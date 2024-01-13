@@ -16,13 +16,13 @@ This notebook focuses on a specific model, XGBoost, for wine quality prediction.
 
 The dataset used for training and testing the wine quality prediction models. This Excel file contains the necessary information for a comprehensive exploration of the dataset.
 
-#### Cheers to Wine Quality Analysis! 🍇🌟
+#### Happy Predicting! 📊✨
 
 ---
 
 ## 📬 Get in Touch
 
-I'm eager to hear your thoughts and feedback on this wine quality analysis project! Feel free to connect with me on my socials and share your insights.
+I'd love to hear your thoughts and reviews! Feel free to connect with me on my socials and share your feedback. Your input is greatly appreciated.
 
 - **Email:** hnvenky4@gmail.com
 - **Twitter:** [@\_gimmick\_\_](https://twitter.com/_gimmick__)
